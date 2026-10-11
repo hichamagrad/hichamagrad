@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&height=40&lines=Cybersecurity+Engineering+Student;Offensive+Security;AI+%26+LLM+Security;Network+Security;Secure+Software+Development)](https://github.com/hichamagrad)
 
-I study how systems break so I can help build ones that don't. My focus areas are offensive security, secure software development, and the security challenges of AI-integrated platforms. Currently a cybersecurity intern at **YAZAKI Morocco**, working on risk prevention for an internal AI platform.
+I study how systems break so I can help build ones that don't. My focus areas are offensive security, secure software development, and the security challenges of AI-integrated platforms. Most recently a cybersecurity intern at **YAZAKI Morocco**, working on risk prevention for an internal AI platform. Now looking for a final-year (PFE) internship starting January 2027.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hicham--agrad-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-agrad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-source-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hichamagrad/hicham-cybersecurity-portfolio)
@@ -29,7 +29,7 @@ I study how systems break so I can help build ones that don't. My focus areas ar
 │  Cybersecurity Engineering Student @ EMSI (2025-2026)
 │
 │  $ current
-│  Cybersecurity Intern, AI Platform Risk Prevention @ YAZAKI Morocco
+│  Seeking PFE internship (Jan 2027) · Offensive / Defensive Security
 │
 │  $ focus
 │  Offensive Security · AI Security · Network Security · Secure Software
@@ -56,7 +56,7 @@ I study how systems break so I can help build ones that don't. My focus areas ar
 
 I'm an engineering student specializing in cybersecurity at **EMSI** (École Marocaine des Sciences de l'Ingénieur), focused on offensive security, secure software development, and, more recently, the security challenges specific to AI-integrated systems.
 
-That focus shows up in what I build: a security monitoring stack I self-audited and hardened, an LLM auditing platform mapped to OWASP's LLM Top 10 and MITRE ATLAS, and a self-monitoring network built around proper segmentation. I'm currently applying the same mindset as a cybersecurity intern at **YAZAKI Morocco**, working on risk prevention for an internal AI platform.
+That focus shows up in what I build: a security monitoring stack I self-audited and hardened, an LLM auditing platform mapped to OWASP's LLM Top 10 and MITRE ATLAS, and a self-monitoring network built around proper segmentation. I applied the same mindset as a cybersecurity intern at **YAZAKI Morocco**, working on risk prevention for an internal AI platform.
 
 Full write-up, project case studies, and downloadable résumé (EN/FR): **[portfolio source on GitHub](https://github.com/hichamagrad/hicham-cybersecurity-portfolio)** <sub>(live URL to follow once deployed)</sub>
 
@@ -152,7 +152,7 @@ Laravel storefront with a product catalog, shopping cart, and role-based account
 ## Experience
 
 **Cybersecurity Intern, AI Platform Risk Prevention** · YAZAKI Morocco
-*Since July 2026*
+*July – September 2026*
 Risk prevention and secure-usage practices for an internal AI platform: usage governance, security controls, and identifying misuse risks specific to AI-assisted workflows.
 
 **Frontend Developer (Intern)** · VOVE ID
