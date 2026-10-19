@@ -8,9 +8,9 @@
 
 # Hicham AGRAD
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&height=40&lines=Cybersecurity+Engineering+Student;Offensive+Security;AI+%26+LLM+Security;Network+Security;Secure+Software+Development)](https://github.com/hichamagrad)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&height=40&lines=Cybersecurity+Engineering+Student;Security+Monitoring+%26+Defense+(SOC);Offensive+Security;AI+%26+LLM+Security;Secure+Software+Development)](https://github.com/hichamagrad)
 
-I study how systems break so I can help build ones that don't. My focus areas are offensive security, secure software development, and the security challenges of AI-integrated platforms. Most recently a cybersecurity intern at **YAZAKI Morocco**, working on risk prevention for an internal AI platform. Now looking for a final-year (PFE) internship starting January 2027.
+I'm drawn to active defense: monitoring, incident detection, and response, the work of a SOC (Security Operations Center). I build and harden security monitoring systems, and study the security challenges of AI-integrated platforms. Final-year engineering student at EMSI (2024 – 2027). Most recently a cybersecurity intern at **YAZAKI Morocco**, working on risk prevention for an internal AI platform. Now looking for a final-year (PFE) internship starting January 2027.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hicham--agrad-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-agrad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-source-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hichamagrad/hicham-cybersecurity-portfolio)
@@ -26,13 +26,13 @@ I study how systems break so I can help build ones that don't. My focus areas ar
 ┌──[ hicham@rabat ]──[ ~/identity ]
 │
 │  $ whoami
-│  Cybersecurity Engineering Student @ EMSI (2025-2026)
+│  Cybersecurity Engineering Student @ EMSI (2024-2027, Final Year)
 │
 │  $ current
-│  Seeking PFE internship (Jan 2027) · Offensive / Defensive Security
+│  Seeking PFE internship (Jan 2027) · SOC / Security Monitoring & Defense
 │
 │  $ focus
-│  Offensive Security · AI Security · Network Security · Secure Software
+│  SOC & Monitoring · Offensive Security · AI Security · Secure Software
 │
 │  $ status
 │  Building. Auditing. Securing.
@@ -54,9 +54,9 @@ I study how systems break so I can help build ones that don't. My focus areas ar
 
 ## About
 
-I'm an engineering student specializing in cybersecurity at **EMSI** (École Marocaine des Sciences de l'Ingénieur), focused on offensive security, secure software development, and, more recently, the security challenges specific to AI-integrated systems.
+I'm a final-year engineering student (2024 – 2027) specializing in cybersecurity at **EMSI** (École Marocaine des Sciences de l'Ingénieur), oriented toward monitoring and defense (SOC): log surveillance, incident detection, and response. I'm also interested in secure software development and, more recently, the security challenges specific to AI-integrated systems.
 
-That focus shows up in what I build: a security monitoring stack I self-audited and hardened, an LLM auditing platform mapped to OWASP's LLM Top 10 and MITRE ATLAS, and a self-monitoring network built around proper segmentation. I applied the same mindset as a cybersecurity intern at **YAZAKI Morocco**, working on risk prevention for an internal AI platform.
+That focus shows up in what I build: **SecureWatch**, a security monitoring stack with log centralization, real-time incident detection, and alerting, which I self-audited and hardened, an LLM auditing platform mapped to OWASP's LLM Top 10 and MITRE ATLAS, and a self-monitoring network built around proper segmentation. I applied the same mindset as a cybersecurity intern at **YAZAKI Morocco**, working on risk prevention for an internal AI platform.
 
 Full write-up, project case studies, and downloadable résumé (EN/FR): **[portfolio source on GitHub](https://github.com/hichamagrad/hicham-cybersecurity-portfolio)** <sub>(live URL to follow once deployed)</sub>
 
@@ -65,10 +65,10 @@ Full write-up, project case studies, and downloadable résumé (EN/FR): **[portf
 ## Current Focus
 
 ```
-[ 01 ] Offensive Security        ●●●●○  hands-on via CTFs, pentesting labs
-[ 02 ] AI & LLM Security         ●●●●●  SentinelLLM + YAZAKI internship
-[ 03 ] Network Security          ●●●●○  segmentation, monitoring, Zabbix
-[ 04 ] Secure Software Dev       ●●●●○  React/Next.js, FastAPI, Django, Laravel
+[ 01 ] Security Monitoring & Defense (SOC)  ●●●●●  SecureWatch: log centralization, detection, alerting
+[ 02 ] Offensive Security                   ●●●●○  hands-on via CTFs, pentesting labs
+[ 03 ] AI & LLM Security                    ●●●●●  SentinelLLM + YAZAKI internship
+[ 04 ] Secure Software Dev                  ●●●●○  React/Next.js, FastAPI, Django, Laravel
 ```
 
 <sub>These bars reflect relative time investment, not a scored skill level; no fabricated percentages.</sub>
